@@ -1,4 +1,4 @@
-# Hi there, I'm Moaad Khamlich, Ph.D. 👋
+# Hi there, I'm Moaad Khamlich, Ph.D. Candidate 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Computational+Scientist;Applied+Mathematician;Aerospace+Engineer;Machine+Learning+%26+HPC+Expert" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 ```json
 {
   "name": "Moaad Khamlich",
-  "title": "Ph.D. in Applied Mathematics",
+  "title": "Ph.D. Candidate in Applied Mathematics",
   "location": "Trieste, Italy 🇮🇹",
   "expertise": [
     "Machine Learning Algorithms",
@@ -27,14 +27,12 @@
   ],
   "current_focus": "Optimal Transport Methods for Model Order Reduction",
   "achievements": {
-    "performance_boost": "1000x reduction in computational time",
     "publications": "5+ peer-reviewed papers",
-    "h_index": 5,
     "presentations": "10+ international conferences"
   },
   "languages": ["Italian (Native)", "Arabic (Native)", "English (Fluent)", "French (Intermediate)"],
-  "open_source_projects": ["ITHACA-FV", "SemiDiscreteOT"],
-  "collaboration": ["MIT", "EPFL", "ENS Paris"],
+  "open_source_projects": ["SemiDiscreteOT"],
+  "collaboration": ["EPFL", "ENS Paris"],
   "passion": "Bridging mathematics and real-world engineering problems"
 }
 ```
@@ -45,7 +43,6 @@
 - 💬 Ask me about **Machine Learning, CFD, Reduced-Order Modeling, OpenFOAM**
 - 📫 How to reach me: **moaadkhamlich@gmail.com**
 - 🌐 Portfolio: **[moaadkhamlich.com](https://moaadkhamlich.com)**
-- ⚡ Fun fact: **I achieved up to 1000x computational speedup using ML algorithms!**
 
 ---
 
@@ -141,38 +138,23 @@
 
 ## 🎓 Education & Research
 
-**🔬 Current Position:** Ph.D. Research Fellow at SISSA (2021-2025)
+**🔬 Current Position:** Ph.D. Candidate Research Fellow at SISSA (2021-2025)
 - **Dissertation:** Optimal Transport Methods for Model Order Reduction
 - **Achievements:** 1000x computational speedup, 5+ publications, international collaborations
 
 **🎓 Educational Background:**
-- **Ph.D.** Mathematical Analysis, Modelling, and Applications - SISSA, Italy
+- **Ph.D. Candidate** Mathematical Analysis, Modelling, and Applications - SISSA, Italy
 - **M.Sc.** Mathematical Engineering (Summa Cum Laude) - Politecnico di Milano, Italy
 - **Exchange** Applied Mathematics - École Polytechnique, France (GPA: 4.0/4.0)
 - **B.Sc.** Aerospace Engineering (Summa Cum Laude) - Politecnico di Milano, Italy
-
-**🏛️ Research Collaborations:**
-- Massachusetts Institute of Technology (MIT)
-- École Polytechnique Fédérale de Lausanne (EPFL)
-- École Normale Supérieure Paris
 
 ---
 
 ## 📚 Publications & Impact
 
 - **📖 Publications:** 5+ peer-reviewed papers in top journals
-- **📈 Impact:** h-index: 5, i10-index: 2
 - **🎤 Presentations:** 10+ international conferences (ECCOMAS, SIAM CSE, HPC Summer School)
-- **📊 Full List:** [Google Scholar Profile](https://scholar.google.com)
-
----
-
-## 🏅 Leadership & Recognition
-
-- **🏆 Third Place** - AI Forum "Città generative e società contemporanee" (2024)
-- **👥 President** - SISSA SIAM Chapter (2022-2023)
-- **🌐 Conference Organizer** - YMMOR 2025 Conference
-- **🎓 Merit Scholarship** - "Best Freshmen" Award (2015)
+- **📊 Full List:** [Google Scholar Profile](https://scholar.google.com/citations?user=0ONdrqkAAAAJ&hl=en)
 
 ---
 
@@ -180,10 +162,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkha95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaad-khamlich-236a672a2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://moaadkhamlich.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaadkhamlich@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0ONdrqkAAAAJ&hl=en)
 
 </div>
 
