@@ -113,9 +113,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkha95/mkha95/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkha95/mkha95/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mkha95/mkha95/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blindmuraqib/blindmuraqib/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blindmuraqib/blindmuraqib/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blindmuraqib/blindmuraqib/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -133,8 +133,7 @@
 
 <div align="center">
 
-[![ITHACA-FV](https://github-readme-stats.vercel.app/api/pin/?username=blindmuraqib&repo=ITHACA-FV&theme=tokyonight)](https://github.com/blindmuraqib/ITHACA-FV)
-[![SemiDiscreteOT](https://github-readme-stats.vercel.app/api/pin/?username=blindmuraqib&repo=SemiDiscreteOT&theme=tokyonight)](https://github.com/blindmuraqib/SemiDiscreteOT)
+[![SemiDiscreteOT](https://github-readme-stats.vercel.app/api/pin/?username=blindmuraqib&repo=SemiDiscreteOT&theme=tokyonight)](https://github.com/SemiDiscreteOT/SemiDiscreteOT)
 
 </div>
 
