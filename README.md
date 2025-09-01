@@ -106,7 +106,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkha95&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blindmuraqib&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -133,7 +133,7 @@
 
 <div align="center">
 
-[![SemiDiscreteOT](https://github-readme-stats.vercel.app/api/pin/?username=blindmuraqib&repo=SemiDiscreteOT&theme=tokyonight)](https://github.com/SemiDiscreteOT/SemiDiscreteOT)
+[![SemiDiscreteOT](https://github-readme-stats.vercel.app/api/pin/?username=SemiDiscreteOT&repo=SemiDiscreteOT&theme=tokyonight)](https://github.com/SemiDiscreteOT/SemiDiscreteOT)
 
 </div>
 
